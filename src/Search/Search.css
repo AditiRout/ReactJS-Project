@@ -1,0 +1,25 @@
+.infoContainer {
+  display: grid;
+  grid-template-columns: 2fr 2fr;
+  column-gap: 5px;
+}
+.abilities {
+  background-color: rgb(150, 204, 186);
+  padding: 5px;
+  padding-left: 20px;
+  padding-bottom: 10px;
+  border-radius: 4px;
+}
+.details {
+  background-color: aliceblue;
+  padding: 1px;
+  padding-left: 10px;
+  border-radius: 4px;
+}
+.searchindividual {
+  background-color: rgb(189, 252, 162);
+  padding: 20px;
+  display: flex;
+  flex-direction: row;
+  border-radius: 7px;
+}
